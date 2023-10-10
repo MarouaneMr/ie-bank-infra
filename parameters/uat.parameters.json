@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "environmentType": {
+            "value": "prod"
+        },
+        "postgreSQLServerName": {
+            "value": "mmrabtei-dbsrv-uat"
+        },
+        "postgreSQLDatabaseName": {
+            "value": "mmrabtei-db-uat"
+        },
+        "appServicePlanName": {
+            "value": "mmrabtei-asp-uat"
+        },
+        "appServiceAPIAppName": {
+            "value": "mmrabtei-be-uat"
+        },
+        "appServiceAppName": {
+            "value": "mmrabtei-fe-uat"
+        },
+        "location": {
+            "value": "Central US"
+        }
+    }
+}
