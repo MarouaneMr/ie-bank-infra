@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "mmrabtei-fe-dev"
         },
+        "azureMonitorName": {
+            "value": "mmrabtei-am-dev"
+          },
+          "appInsightsName": {
+            "value": "mmrabtei-ai-dev"
+          },
         "location": {
             "value": "Central US"
         }

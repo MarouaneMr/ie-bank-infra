@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "mmrabtei-fe-uat"
         },
+        "azureMonitorName": {
+            "value": "mmrabtei-am-uat"
+          },
+          "appInsightsName": {
+            "value": "mmrabtei-ai-uat"
+          },
         "location": {
             "value": "Central US"
         }
